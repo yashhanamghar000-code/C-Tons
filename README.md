@@ -1,6 +1,3 @@
-Here is a perfect professional README you can directly copy 👇
-
-📄 ✅ README.md (Clean Version)
 # 🌿 C-Tons Solution Website
 
 A modern and responsive web application designed to showcase environmental impact solutions such as carbon credit services, I-REC certifications, and sustainability consulting.
